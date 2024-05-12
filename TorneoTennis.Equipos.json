@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66404c6bc698a30177a89e9c"
+  },
+  "nombre": "Team España",
+  "ciudad": "Madrid",
+  "categoria": "Masculina",
+  "jugadores": [
+    "Rafael Nadal",
+    "Fernando Verdasco",
+    "Roberto Bautista Agut"
+  ],
+  "entrenador_principal": "Carlos Moya"
+},
+{
+  "_id": {
+    "$oid": "66404c73c698a30177a89e9e"
+  },
+  "nombre": "Team USA",
+  "ciudad": "Los Angeles",
+  "categoria": "Femenina",
+  "jugadores": [
+    "Serena Williams",
+    "Sloane Stephens",
+    "Madison Keys"
+  ],
+  "entrenador_principal": "Patrick Mouratoglou"
+},
+{
+  "_id": {
+    "$oid": "66404e37c698a30177a89eba"
+  },
+  "nombre": "Team Australia",
+  "ciudad": "Sydney",
+  "categoria": "Masculina",
+  "jugadores": [
+    "Nick Kyrgios",
+    "Alex de Miñaur",
+    "John Millman"
+  ],
+  "entrenador_principal": "Lleyton Hewitt"
+},
+{
+  "_id": {
+    "$oid": "66404e37c698a30177a89ebb"
+  },
+  "nombre": "Team France",
+  "ciudad": "Paris",
+  "categoria": "Femenina",
+  "jugadores": [
+    "Kristina Mladenovic",
+    "Caroline Garcia",
+    "Alizé Cornet"
+  ],
+  "entrenador_principal": "Amélie Mauresmo"
+},
+{
+  "_id": {
+    "$oid": "66404e37c698a30177a89ebc"
+  },
+  "nombre": "Team Argentina",
+  "ciudad": "Buenos Aires",
+  "categoria": "Masculina",
+  "jugadores": [
+    "Diego Schwartzman",
+    "Guido Pella",
+    "Juan Martín del Potro"
+  ],
+  "entrenador_principal": "Guillermo Coria"
+}]

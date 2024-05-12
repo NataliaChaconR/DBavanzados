@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "66404c4ec698a30177a89e97"
+  },
+  "nombre": "Rafael Nadal",
+  "nacionalidad": "Española",
+  "edad": 35,
+  "ranking_atp": 3,
+  "historial_partidos": [
+    {
+      "fecha": "2023-05-01",
+      "contrincante": "Novak Djokovic",
+      "resultado": "Ganado"
+    },
+    {
+      "fecha": "2023-05-05",
+      "contrincante": "Roger Federer",
+      "resultado": "Perdido"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404c54c698a30177a89e99"
+  },
+  "nombre": "Serena Williams",
+  "nacionalidad": "Estadounidense",
+  "edad": 40,
+  "ranking_wta": 8,
+  "historial_partidos": [
+    {
+      "fecha": "2023-05-02",
+      "contrincante": "Simona Halep",
+      "resultado": "Ganado"
+    },
+    {
+      "fecha": "2023-05-06",
+      "contrincante": "Naomi Osaka",
+      "resultado": "Perdido"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404dc7c698a30177a89eb0"
+  },
+  "fecha": "2023-05-02",
+  "jugador1": "Serena Williams",
+  "jugador2": "Simona Halep",
+  "resultado": "Ganado",
+  "puntuacion": "6-2, 6-4"
+},
+{
+  "_id": {
+    "$oid": "66404dc7c698a30177a89eb1"
+  },
+  "nombre": "Naomi Osaka",
+  "nacionalidad": "Japonesa",
+  "edad": 25,
+  "ranking_wta": 2,
+  "historial_partidos": [
+    {
+      "fecha": "2023-05-04",
+      "contrincante": "Ashleigh Barty",
+      "resultado": "Ganado"
+    },
+    {
+      "fecha": "2023-05-08",
+      "contrincante": "Serena Williams",
+      "resultado": "Perdido"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66404dc7c698a30177a89eb2"
+  },
+  "nombre": "Roger Federer",
+  "nacionalidad": "Suiza",
+  "edad": 41,
+  "ranking_atp": 15,
+  "historial_partidos": [
+    {
+      "fecha": "2023-05-05",
+      "contrincante": "Rafael Nadal",
+      "resultado": "Ganado"
+    },
+    {
+      "fecha": "2023-05-09",
+      "contrincante": "Novak Djokovic",
+      "resultado": "Perdido"
+    }
+  ]
+}]

@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "66404cb0c698a30177a89eab"
+  },
+  "fecha": "2023-05-01",
+  "jugador1": "Rafael Nadal",
+  "jugador2": "Novak Djokovic",
+  "resultado": "Ganado",
+  "puntuacion": "6-3, 4-6, 6-4"
+},
+{
+  "_id": {
+    "$oid": "66404cb6c698a30177a89ead"
+  },
+  "fecha": "2023-05-02",
+  "jugador1": "Serena Williams",
+  "jugador2": "Simona Halep",
+  "resultado": "Ganado",
+  "puntuacion": "6-2, 6-4"
+},
+{
+  "_id": {
+    "$oid": "66404e87c698a30177a89ebf"
+  },
+  "fecha": "2023-05-06",
+  "jugador1": "Ashleigh Barty",
+  "jugador2": "Simona Halep",
+  "resultado": "Ganado",
+  "puntuacion": "6-3, 6-4"
+},
+{
+  "_id": {
+    "$oid": "66404e87c698a30177a89ec0"
+  },
+  "fecha": "2023-05-07",
+  "jugador1": "Novak Djokovic",
+  "jugador2": "Roger Federer",
+  "resultado": "Perdido",
+  "puntuacion": "6-7, 4-6, 3-6"
+},
+{
+  "_id": {
+    "$oid": "66404e87c698a30177a89ec1"
+  },
+  "fecha": "2023-05-08",
+  "jugador1": "Naomi Osaka",
+  "jugador2": "Serena Williams",
+  "resultado": "Perdido",
+  "puntuacion": "2-6, 4-6"
+}]

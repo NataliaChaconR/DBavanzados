@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "66404c8dc698a30177a89ea1"
+  },
+  "fecha": "2023-05-01",
+  "hora": "15:00",
+  "jugadores": [
+    "Rafael Nadal",
+    "Novak Djokovic"
+  ],
+  "tipo_encuentro": "Individual",
+  "resultado": {
+    "sets_ganados_jugador1": 2,
+    "sets_ganados_jugador2": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "66404c91c698a30177a89ea3"
+  },
+  "fecha": "2023-05-02",
+  "hora": "16:30",
+  "jugadores": [
+    "Serena Williams",
+    "Simona Halep"
+  ],
+  "tipo_encuentro": "Individual",
+  "resultado": {
+    "sets_ganados_jugador1": 2,
+    "sets_ganados_jugador2": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "66404df9c698a30177a89eb5"
+  },
+  "fecha": "2023-05-03",
+  "hora": "14:00",
+  "jugadores": [
+    "Novak Djokovic",
+    "Rafael Nadal"
+  ],
+  "tipo_encuentro": "Individual",
+  "resultado": {
+    "sets_ganados_jugador1": 2,
+    "sets_ganados_jugador2": 1
+  }
+},
+{
+  "_id": {
+    "$oid": "66404df9c698a30177a89eb6"
+  },
+  "fecha": "2023-05-04",
+  "hora": "12:30",
+  "jugadores": [
+    "Naomi Osaka",
+    "Ashleigh Barty"
+  ],
+  "tipo_encuentro": "Individual",
+  "resultado": {
+    "sets_ganados_jugador1": 2,
+    "sets_ganados_jugador2": 0
+  }
+},
+{
+  "_id": {
+    "$oid": "66404df9c698a30177a89eb7"
+  },
+  "fecha": "2023-05-05",
+  "hora": "16:00",
+  "jugadores": [
+    "Roger Federer",
+    "Rafael Nadal"
+  ],
+  "tipo_encuentro": "Individual",
+  "resultado": {
+    "sets_ganados_jugador1": 2,
+    "sets_ganados_jugador2": 1
+  }
+}]

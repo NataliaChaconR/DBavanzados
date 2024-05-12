@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66404ea4c698a30177a89ec4"
+  },
+  "jugador": "Rafael Nadal",
+  "puntos": 2000,
+  "posicion": 1
+},
+{
+  "_id": {
+    "$oid": "66404ea4c698a30177a89ec5"
+  },
+  "jugador": "Novak Djokovic",
+  "puntos": 1800,
+  "posicion": 2
+},
+{
+  "_id": {
+    "$oid": "66404ea4c698a30177a89ec6"
+  },
+  "jugador": "Ashleigh Barty",
+  "puntos": 1500,
+  "posicion": 1
+},
+{
+  "_id": {
+    "$oid": "66404eedc698a30177a89ec8"
+  },
+  "jugador": "Roger Federer",
+  "puntos": 1200,
+  "posicion": 3
+},
+{
+  "_id": {
+    "$oid": "66404ef2c698a30177a89eca"
+  },
+  "jugador": "Naomi Osaka",
+  "puntos": 900,
+  "posicion": 2
+}]
